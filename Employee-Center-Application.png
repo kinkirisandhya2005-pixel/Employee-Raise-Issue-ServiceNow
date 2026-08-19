@@ -1,0 +1,12 @@
+Employee Center - ServiceNow
+Project Name - Employee Raise Issue - Record Producer & Service Portal
+Task-1 : Create an Application
+I Created a custom ServiceNow application called Employee Center
+Application Details:
+Application Name: Employee Center
+platform : ServiceNow
+Type: Custom Application
+objective:
+The application is created as the foundation for the Employee Raise Issue Solution. It will be used to build the required tables fields ,record producer , and service portal
+Task Status:
+Task 1 - Create an Application : Completed
