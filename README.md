@@ -86,3 +86,26 @@ Task Details:
 [View Repo](https://github.com/kinkirisandhya2005-pixel/Employee-Raise-Issue-ServiceNow)
 
 
+### Task 6 - Creating Widgets and Adding to the Page
+
+Task Details:
+
+- Created the Left Widget.
+- Created the Right Widget.
+- Added 2 Widgets to the Employee Center Homepage.
+- Configured the widgets based on the required layout.
+- Dragged and dropped the widgets into the page.
+- Verified that both widgets are displayed correctly on the page.
+
+### Task 6 Demo
+
+[View Demo](https://dev226246.service-now.com/$spd.do#/sp/preview/desktop/ec_standard_home)
+
+### GitHub Repository
+
+[View Repo](https://github.com/kinkirisandhya2005-pixel/Employee-Raise-Issue-ServiceNow)
+
+
+
+
+
