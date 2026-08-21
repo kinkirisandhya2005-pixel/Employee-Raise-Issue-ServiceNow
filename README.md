@@ -66,3 +66,23 @@ Task Details:
 [View Repo](https://github.com/kinkirisandhya2005-pixel/Employee-Raise-Issue-ServiceNow)
 
 
+## Task 5 - Creating a new Service Portal
+
+### Task Details:
+
+- Created a new Service Portal
+- Configured the portal name and URL suffix
+- Configured the homepage
+- Configured the main menu
+- Configured the theme
+- Added the required logo and portal settings
+
+### Task 5 Demo
+
+[View Demo](https://dev226246.service-now.com/now/nav/ui/classic/params/target/sp_portal.do%3Fsys_id%3D06f8a882c3b6431491ed12f1b401314d%26sysparm_record_target%3Dsp_portal%26sysparm_record_row%3D1%26sysparm_record_rows%3D10%26sysparm_record_list%3D)
+
+### GitHub Repository
+
+[View Repo](https://github.com/kinkirisandhya2005-pixel/Employee-Raise-Issue-ServiceNow)
+
+
