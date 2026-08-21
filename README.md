@@ -107,5 +107,26 @@ Task Details:
 
 
 
+### Task 7 - Testing and Validation
+
+Task Details:
+
+* Tested the Employee Raise Issue application.
+* Verified the Employee Raise Issue record producer.
+* Verified the Category and Subcategory dependency.
+* Tested the UI Policies and field restrictions.
+* Verified that the Number field is read-only.
+* Tested the Service Portal and Employee Center pages.
+* Verified that the created widgets are displayed correctly.
+* Submitted a test Employee Issue and verified the created record.
+* Validated that all configured functionalities are working as expected.
+
+### Task 7 Demo
+
+[View Demo](https://dev226246.service-now.com/$spd.do#/sp/preview/desktop/ec_standard_home)
+
+### GitHub Repository
+
+[View Repo](https://github.com/kinkirisandhya2005-pixel/Employee-Raise-Issue-ServiceNow)
 
 
