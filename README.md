@@ -45,3 +45,24 @@ Task Details:
 ### GitHub Repository
 
 [View Repo](https://github.com/kinkirisandhya2005-pixel/Employee-Raise-Issue-ServiceNow)
+
+### Task 4 - Creating a Record Producer
+
+Task Details:
+
+* Created a Record Producer
+* Configured the Record Producer for Employee Raise Issue
+* Added the required fields
+* Configured the form fields
+* Tested the Record Producer
+* Verified that the Employee Raise Issue record is created successfully
+
+### Task 4 Demo
+
+[View Demo](https://dev226246.service-now.com/now/nav/ui/classic/params/target/com.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1%26sysparm_id%3Da9f5aef5c376031491ed12f1b401316f)
+
+### GitHub Repository
+
+[View Repo](https://github.com/kinkirisandhya2005-pixel/Employee-Raise-Issue-ServiceNow)
+
+
