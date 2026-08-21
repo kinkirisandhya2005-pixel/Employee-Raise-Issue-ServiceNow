@@ -18,3 +18,30 @@ Task Details:
 ### GitHub Repository
 
 [View Repo](https://github.com/kinkirisandhya2005-pixel/Employee-Raise-Issue-ServiceNow)
+
+
+# Employee-Raise-Issue-ServiceNow
+
+ServiceNow application for employees to raise and track issues
+
+Task 3 - Creating UI Policies and Dependency
+
+Task Details:
+
+* Created UI Policies
+* Made the Number field Read only
+* Configured field visibility and restrictions
+* Created Category and Subcategory dependency
+* Configured dependent choices
+* Network → VPN
+* Hardware → Laptop
+* Software → Server
+* Assess → Forgot password
+
+### Task 3 Demo
+
+[View Demo](https://dev226246.service-now.com/now/nav/ui/classic/params/target/sys_dictionary.do%3Fsysparm_query%3Dname%253dsn_ex_sp_employee_raises_issue%255eelement%253du_subcategory%26sysparm_query_encoded%3Dname%253dsn_ex_sp_employee_raises_issue%255eelement%253du_subcategory%26sysparm_referring_url%3Dsn_ex_sp_employee_raises_issue.do%253fsys_id%253d-1%254099%2540sysparm_target%254099%2540sysparm_list_css%254099%2540sysparm_query%254099%2540sysparm_view%254099%2540sys_is_list%253dtrue%254099%2540sys_target%253dsn_ex_sp_employee_raises_issue%254099%2540sysparm_group_sort%254099%2540sysparm_fixed_query%26sysparm_view%3Dadvanced%26sysparm_view_forced%3Dtrue)
+
+### GitHub Repository
+
+[View Repo](https://github.com/kinkirisandhya2005-pixel/Employee-Raise-Issue-ServiceNow)
