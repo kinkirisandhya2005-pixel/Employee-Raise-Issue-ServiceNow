@@ -129,4 +129,23 @@ Task Details:
 
 [View Repo](https://github.com/kinkirisandhya2005-pixel/Employee-Raise-Issue-ServiceNow)
 
+### Task 8 - Conclusion
+
+The Employee Raise Issue ServiceNow application has been successfully completed.
+
+The project includes:
+
+* Created a custom application for raising employee issues.
+* Created a custom table and required fields.
+* Configured Category and Subcategory dependencies.
+* Created UI Policies and field restrictions.
+* Created a Record Producer for raising employee issues.
+* Created and configured a new Service Portal.
+* Created and added widgets to the Employee Center Homepage.
+* Tested and validated all the configured functionalities.
+* Verified that the application works as expected from the user perspective.
+
+Overall, the project successfully demonstrates the creation and configuration of an Employee Raise Issue application in ServiceNow, including application development, UI configuration, portal customization, widgets, and testing.
+
+
 
